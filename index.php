@@ -1,6 +1,6 @@
 <?php
 
-$str = "Cüzdan olarak seni aramızda görmek istiyoruz!";
+$str = "Lorem ipsum dolor sit amet consectet uer dentes";
 
 echo $str;
 
